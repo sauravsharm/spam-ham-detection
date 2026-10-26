@@ -1,0 +1,9 @@
+{
+    "model_name": "TF-IDF + Linear SVM",
+    "text_input": "subject + message",
+    "positive_label": "spam",
+    "validation_accuracy": 0.9934,
+    "validation_f1": 0.9936,
+    "test_accuracy": 0.9918,
+    "test_f1": 0.9919
+}
